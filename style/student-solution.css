@@ -47,7 +47,7 @@
   border-radius: 20px;
   transform: scale(1.5);
 }
-
+/*RIF EX-10 */
 @keyframes ruota {
   from {
     transform: rotate(0deg);
@@ -56,4 +56,13 @@
     transform: rotate(360deg);
   }
 
+}
+/*RIF EX-11 */
+@keyframes ruota11 {
+  0% {
+    transform: rotate(0deg);
+  }
+  75% {
+    transform: rotate(270deg);
+  }
 }

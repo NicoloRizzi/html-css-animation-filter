@@ -46,6 +46,11 @@
 .ex-11-icon {
     font-size: 60px;
 }
+
+.ex-11-icon:hover {
+    font-size: 60px;
+    animation: ruota11 2s linear infinite;
+}
 .ex-12-button, .ex-13-button {
     position: relative;
     display: block;
