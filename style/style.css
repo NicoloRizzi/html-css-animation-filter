@@ -36,9 +36,12 @@
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
+    transition: filter 2s, border-radius 2s, transform 2s;
 }
 .ex-10-icon {
     font-size: 60px;
+    animation: ruota 1s linear infinite;
+
 }
 .ex-11-icon {
     font-size: 60px;
